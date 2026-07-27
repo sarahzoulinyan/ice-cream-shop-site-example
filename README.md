@@ -3,7 +3,7 @@
 > Landing Page para sorveteria artesanal com troca dinâmica de sabores, formulário de delivery e suporte multilíngue.
 
 🌐 **Website:** https://www.pablogdev.com.br  
-🚀 **Demo:** https://pablog-7.github.io/chilliz-ice-cream/
+🚀 **Demo:** https://pablog-7.github.io/sorvete-site-exemplo/
 
 ---
 
