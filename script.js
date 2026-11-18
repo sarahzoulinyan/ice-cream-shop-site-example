@@ -105,7 +105,7 @@ const translations = {
     }
 };
 
-let currentLanguage = 'pt';
+let currentLanguage = 'en';
 
 function setLanguage(lang) {
     currentLanguage = lang;
@@ -315,6 +315,7 @@ document.head.appendChild(styleSheet);
 
 // ===== 10. INICIALIZAÇÃO =====
 document.addEventListener('DOMContentLoaded', function() {
+    setLanguage('en');
     updateInputColors('#db2e64');
     
     document.addEventListener('click', function(e) {
